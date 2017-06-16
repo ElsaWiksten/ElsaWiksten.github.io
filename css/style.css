@@ -1,0 +1,21 @@
+p{color:blue;
+background-color: yellow;
+font-size: 18px}
+
+h1{
+	text-align: center;
+}
+
+body{
+	text-align: center;
+	background-color: #eaeaff;
+}
+
+.navbar-inverse{
+	background:#b4fcb3;
+}
+.navbar-inverse .navbar-nav > li > a{color: #e56dff;
+}
+.navbar-inverse .navbar-brand {
+	color: #e56dff;
+}
